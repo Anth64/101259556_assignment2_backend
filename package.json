@@ -1,0 +1,19 @@
+{
+  "name": "101259556_assignment2_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anth64/101259556_assignment2_backend.git"
+  },
+  "author": "Anthony Giugni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anth64/101259556_assignment2_backend/issues"
+  },
+  "homepage": "https://github.com/Anth64/101259556_assignment2_backend#readme"
+}
