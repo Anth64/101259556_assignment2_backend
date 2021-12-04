@@ -29,6 +29,6 @@ app.use('/', employeeRouter);
 app.get('/', (req, res) => {
 	res.send('<h1>Assignment 2 - Backend</h1>');
 });
-app.listen(8081, () => {
-	console.log('Server listening on port 8081');
+app.listen(8080, () => {
+	console.log('Server listening on port 8080');
 });
